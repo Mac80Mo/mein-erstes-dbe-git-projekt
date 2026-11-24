@@ -1,1 +1,2 @@
 Meine Notizen zu Git
+Untracked heißt: Git kennt die Datei noch nicht.
