@@ -2,4 +2,3 @@ Hallo Git!
 Das ist meine erste Änderung!
 Das ist meine zweite Änderung!
 Das ist meine dritte Änderung!
-Vierte Zeile zum Üben.
