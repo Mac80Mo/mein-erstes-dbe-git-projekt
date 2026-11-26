@@ -1,7 +1,5 @@
 Hallo Git! Schön dich zu sehen! Heute lerne ich Merge-Konflikte.
-Das ist meine erste Änderung auf GitHub!
-Das ist meine zweite Änderung!
-Das ist meine dritte Änderung!
+Diese Zeile habe ich auf meinem Computer geändert.
 Wichtige Änderung in main
 Neue Zeile aus meinem Feature-Branch
 
