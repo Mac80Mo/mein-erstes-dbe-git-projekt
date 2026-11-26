@@ -12,3 +12,15 @@ cache/
 
 # Protokolle
 *.log
+
+thumbs.db
+
+temp/
+
+config.private
+
+backup_2024.pdf
+
+dokumente/.autosave
+
+.env
