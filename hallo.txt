@@ -1,5 +1,5 @@
 Hallo Git! Schön dich zu sehen! Heute lerne ich Merge-Konflikte.
-Diese Zeile habe ich auf meinem Computer geändert.
+Diese Zeile habe ich auf meinem Computer und GitHub geändert.
 Wichtige Änderung in main
 Neue Zeile aus meinem Feature-Branch
 
