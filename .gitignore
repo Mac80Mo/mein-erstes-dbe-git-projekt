@@ -1,2 +1,5 @@
 # Verstecke den Geheimen Ordner bzw. tacke ihn nicht!
 /secret
+
+# DS_Store
+.DS_Store
