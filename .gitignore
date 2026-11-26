@@ -24,3 +24,10 @@ backup_2024.pdf
 dokumente/.autosave
 
 .env
+
+# Rohdaten bleiben draußen
+daten/*
+!daten/README.md
+
+# Sicherungskopien von Jupyter
+.ipynb_checkpoints/
