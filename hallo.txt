@@ -1,5 +1,5 @@
 Hallo Git! Schön dich zu sehen! Heute lerne ich Merge-Konflikte.
-Das ist meine erste Änderung!
+Das ist meine erste Änderung auf GitHub!
 Das ist meine zweite Änderung!
 Das ist meine dritte Änderung!
 Wichtige Änderung in main
